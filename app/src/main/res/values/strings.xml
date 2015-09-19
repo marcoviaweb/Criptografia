@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Criptografia</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="texto_ingresar">Ingrese mensaje</string>
+    <string name="texto_metodo">Transposición simple</string>
+    <string name="texto_resultado">Resultado</string>
+    <string name="texto_cifrar">Cifrar</string>
+    <string name="texto_descifrar">Descifrar</string>
+
+</resources>
